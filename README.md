@@ -10,13 +10,14 @@
 
 - **Team Name:**  
 - **Team Members:**  
-  - Member 1 – Register No  
-  - Member 2 – Register No  
-  - Member 3 – Register No  
-  - Member 4 – Register No (if applicable)
+  - Member 1 – Christo Martin  
+  - Member 2 – Riya Rose Roy
+  - Member 3 – Sam Peter
 
 - **Problem Domain:**  
-- **Selected Problem Statement:**  
+- **Selected Problem Statement:**
+- Water and electricity wastage occurs due to lack of awareness and absence of clear usage insights at the consumer level.The issue lies in users not having simple and understandable
+  visibility into how much water and electricity they consume, leading to inefficient and excessive usage of essential resources.
 
 ---
 
@@ -37,7 +38,7 @@ Describe your solution clearly:
 ---
 
 ## ⚙️ Technology Stack
-
+- HTML, CSS, Javascript
 List the tools and technologies used:
 - Programming Languages  
 - Frameworks / Libraries  
